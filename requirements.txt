@@ -1,2 +1,6 @@
 ipykernel
-flask
+pandas 
+seaborn 
+scikit-learn 
+keras 
+tensorflow

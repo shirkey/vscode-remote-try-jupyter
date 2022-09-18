@@ -30,6 +30,7 @@ Follow these steps to open this sample in a container using the VS Code Remote -
    - Clone this repository directly from VS Code (**Clone Git Repository...**)
    - Select a folder for storing the local repository
    - When prompted withing VS Code, select to **Reopen in Container** and wait for the container to start, and try things out!
+   
 
 ## Things to try
 
